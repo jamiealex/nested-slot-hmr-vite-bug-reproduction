@@ -1,5 +1,5 @@
 <template>
-  <h1>Slot HMR Bug Reproductions</h1>
+  <h1>Slot HMR Bug Reproduction</h1>
   <SimpleSlot>
     Slot Content
   </SimpleSlot>
