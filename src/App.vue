@@ -1,7 +1,7 @@
 <template>
   <h1>Slot HMR Bug Reproductions</h1>
   <SimpleSlot>
-    Outside Slot
+    Slot Content
   </SimpleSlot>
 </template>
 
