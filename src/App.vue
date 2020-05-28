@@ -1,10 +1,7 @@
 <template>
-  <h1>Slot HMR Bug Reproduction</h1>
+  <h1>Slot HMR Bug Reproductions</h1>
   <SimpleSlot>
     Outside Slot
-    <SimpleSlot>
-      Inside Slot
-    </SimpleSlot>
   </SimpleSlot>
 </template>
 
